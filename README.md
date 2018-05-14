@@ -2,9 +2,6 @@
 
 Full project available here: https://github.com/thiamndoye/RepoBigDataAlgorithmCFY 
 
-
-Authors: Yague Thiam (yague.thiam@essec.edu)- Chuyi Xu (chuyi.xu@essec.edu) - Florian Barral (florian.barral@essec.edu)
-
 Java
 Exo 2.7 and 2.8 and 5.2 are done using Java.
 
